@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsalculate",
+        "uuid": 15576435,
+        "checksum": "bbhpl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
